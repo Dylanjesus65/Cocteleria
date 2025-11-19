@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+/* En Tailwind v4, el tema se configura aquí mismo */
+@theme {
+  /* Colores personalizados */
+  --color-primary: #6B46C1;
+  --color-secondary: #805AD5;
+  --color-accent: #F3E8FF;
+  --color-darkText: #2D3748;
+  --color-lightText: #718096;
+  --color-success: #38A169;
+  --color-danger: #E53E3E;
+
+  /* Fuente */
+  --font-sans: "Montserrat", sans-serif;
+
+  /* Sombras */
+  --shadow-soft-lg: 0 10px 15px -3px rgba(107, 70, 193, 0.15), 0 4px 6px -2px rgba(107, 70, 193, 0.1);
+  --shadow-soft-xl: 0 20px 25px -5px rgba(107, 70, 193, 0.15), 0 10px 10px -5px rgba(107, 70, 193, 0.1);
+}

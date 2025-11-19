@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Margarita",
+    "ingredientes": "Tequila, Jugo de Limón, Cointreau, Sal",
+    "instrucciones": "Mezclar ingredientes y servir en copa con borde de sal.",
+    "fotoUrl": "https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Mojito",
+    "ingredientes": "Ron Blanco, Azúcar, Hierbabuena, Jugo de Lima, Agua con gas",
+    "instrucciones": "Macerar la hierbabuena con el azúcar y la lima. Añadir el ron y rellenar con agua con gas y hielo.",
+    "fotoUrl": "https://www.thecocktaildb.com/images/media/drink/metwgh1606770327.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Piña Colada",
+    "ingredientes": "Ron Blanco, Crema de Coco, Jugo de Piña",
+    "instrucciones": "Mezclar todos los ingredientes con hielo en una licuadora hasta que quede suave. Servir en un vaso alto.",
+    "fotoUrl": "https://assets.malibudrinks.com/wp-content/uploads/2024/01/Malibu-Pina-Colada-Step-6-ROW.jpg?tr=q-80,w-1229"
+  },
+  {
+    "nombre": "Cuba Libre",
+    "ingredientes": "Ron Añejo, Coca-Cola, Jugo de limón, Hielo",
+    "instrucciones": "Llenar un vaso alto con hielo. Exprimir el limón. Añadir el ron y completar con Coca-Cola. Mezclar suavemente.",
+    "fotoUrl": "https://www.thecocktaildb.com/images/media/drink/wmkbfj1606853905.jpg",
+    "id": 4
+  },
+  {
+    "nombre": "Saumerio",
+    "ingredientes": "Saumerio santo, Norteño, sal, limon y coca cola zero, palo santo ahumado",
+    "instrucciones": "se mezcla todo a fuego lento se bate y se sirve",
+    "fotoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg_LnTf0RRVy5hvqnM0BZHwBO5M2GywCalJw&s",
+    "id": 5
+  },
+  {
+    "nombre": "Ron Helado",
+    "ingredientes": "ron cola, norteño, limón, hielo",
+    "instrucciones": "batir y mezclar ",
+    "fotoUrl": "https://preview.redd.it/overproof-rum-sour-v0-3j5wmnvpz4df1.jpeg?width=640&crop=smart&auto=webp&s=450d9e929f19eb4cc39f28494048a763202daa93",
+    "id": 6
+  }
+]
